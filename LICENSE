@@ -1,10 +1,7 @@
 MIT License
 
 Copyright (c) 2026 Switch Dimension
-
-Portions (the worker and host prompts quoted in the appendices, and the design
-they describe) are adapted from deepseek-ai/dsh-superagent-prototype:
-Copyright (c) 2026 DeepSeek Harness Team, MIT License.
+Copyright (c) 2026 DeepSeek Harness Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
